@@ -1,7 +1,6 @@
 import httpx
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import HTMLResponse,JSONResponse
-import uvicorn
 import json
 
 
